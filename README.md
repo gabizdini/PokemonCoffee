@@ -45,7 +45,7 @@
   <img src="https://github.com/gabizdini/PokemonCoffee/assets/128835174/98d741b5-0395-418c-b884-a93e1f7929ad">
 </figure>
 
-### Tela para Remoção de Categoria
+### Tela para Remoção de Categoria:
 <figure>
   <img src="https://github.com/gabizdini/PokemonCoffee/assets/128835174/58da7332-37c7-448d-8fac-db94eac0a7e0">
 </figure>
