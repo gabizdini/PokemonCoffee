@@ -1,5 +1,5 @@
 <h1 align="center">Pokémon Coffee</h1>
-<h4 align='center'>Sistemas desenvolvido em C# conectado com Banco de Dados! <\br>
+<h4 align='center'>Sistemas desenvolvido em C# conectado com Banco de Dados! 
   Feito por: Gabrieli Diniz e Rafael Rabelo </h2>
 
 ### Linguagens Utilizadas:
