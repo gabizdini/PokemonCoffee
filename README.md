@@ -4,6 +4,10 @@
 ### Linguagens Utilizadas:
 * C#
 * SQL
+
+### Softwares Utilizados: 
+* Microsoft Visual Studio 2022
+* MySql Workbench 8.0
   
 ### Funções do Software:
 * Inserir dados;
