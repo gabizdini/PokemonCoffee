@@ -16,6 +16,11 @@
   <img src="https://github.com/gabizdini/PokemonCoffee/assets/128835174/b5355cb8-98c0-4ff3-ad7f-7c7dddd63fc6">
 </figure>
 
+### Tela para Criação de Usuários:
+<figure>
+  <img src="https://github.com/gabizdini/PokemonCoffee/assets/128835174/a1127119-01b4-4715-b817-01d17af0ed93">
+</figure>
+
 ### Tela de Cadastro de Produtos:
 <figure>
   <img src="https://github.com/gabizdini/PokemonCoffee/assets/128835174/276b139d-96b2-48b6-b741-ca3380f6230f">
